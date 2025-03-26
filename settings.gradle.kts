@@ -12,3 +12,5 @@ plugins {
 
 rootProject.name = "SpringWebMvcSamples"
 include("sample1")
+include("sample2")
+include("sample3")

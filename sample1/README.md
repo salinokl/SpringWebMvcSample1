@@ -1,0 +1,1 @@
+WebApplicationInitializer 를 이용한 DispatcherServlet 등록 예제

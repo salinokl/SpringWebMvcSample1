@@ -1,0 +1,1 @@
+AbstractDispatcherServletInitializer 를 통해, XML 기반으로 DispatcherServlet 구성의 위치를 ​​지정하는 예제

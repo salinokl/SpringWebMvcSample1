@@ -24,9 +24,6 @@ dependencies {
 
 	// https://mvnrepository.com/artifact/org.springframework/spring-webmvc
 	implementation("org.springframework:spring-webmvc:6.2.5")
-	
-	// https://mvnrepository.com/artifact/jakarta.servlet/jakarta.servlet-api
-	compileOnly("jakarta.servlet:jakarta.servlet-api:6.1.0")
 }
 
 // Apply a specific Java toolchain to ease working on different environments.

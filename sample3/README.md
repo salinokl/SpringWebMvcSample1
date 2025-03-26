@@ -1,0 +1,1 @@
+AbstractAnnotationConfigDispatcherServletInitializer 를 통해, DispatcherServlet 구성 Class 를 등록하는 예제
